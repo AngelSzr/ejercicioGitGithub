@@ -1,1 +1,6 @@
 Hola otra vez, esta vez utilicé nano
+Crear un repositorio local y trabajar sobre él
+El participante A deberá crear un repositorio local, vincularlo con el repositorio remoto que creó anteriormente y subir un archivo README.md con el título del repositorio.
+Para eso, es recomendable seguir las instrucciones que figuran en GitHub al crear un repositorio.
+Clonar un repositorio remoto
+Una vez que el participante A haya subido el primer archivo, el participante B deberá clonar el repositorio remoto creado por el participante A.
