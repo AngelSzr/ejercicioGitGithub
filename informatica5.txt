@@ -1,4 +1,8 @@
 Hola otra vez, esta vez utilicé nano
+
+
+Este es el código secreto: 123Hola.!:)
+
 1. Crear un repositorio remoto
 El participante A deberá crear un nuevo repositorio en https://github.com.
 Es importante que el repositorio se cree vacío (sin tildar la opción del README.md).
